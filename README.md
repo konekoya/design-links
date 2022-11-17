@@ -11,6 +11,6 @@ Design links
 
 ## Typgraphy
 
-### Free fonts
+#### Free fonts
 - [dafont.com](https://www.dafont.com/)
 - [Google Font](https://fonts.google.com/) - Lots of free fonts. You can directly link to the fonts or download and hosted on your own
